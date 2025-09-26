@@ -33,6 +33,8 @@ AI Student | Aspiring Computational Neuroscientist | Python & .NET Developer | G
 - Build a personal portfolio of professional-grade applications  
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com/?user=aliqaiser1123&theme=tokyonight)
+
 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/muhammad-ali-698b5233a/)  
