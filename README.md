@@ -5,7 +5,7 @@ AI Student | Aspiring Computational Neuroscientist | Python & .NET Developer | G
 ---
 
 ## 👋 About Me
-- 🎓 First-year Artificial Intelligence undergraduate  
+- 🎓 Second-year Artificial Intelligence undergraduate  
 - 🧠 Interested in Machine Learning, Brain–Computer Interfaces, and Computational Neuroscience  
 - 💡 Enjoy blending creative **design** with solid **software engineering** skills  
 
