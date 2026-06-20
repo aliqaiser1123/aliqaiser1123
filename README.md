@@ -1,190 +1,191 @@
-
 <div align="center">
 
 # Muhammad Ali
 
-### AI Engineer | LLM Engineer | Information Retrieval & RAG Specialist
+### 🚀 AI Engineer • LLM Engineer • Information Retrieval & RAG Specialist
 
-<p>**Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation (RAG) Applications, and Production-Ready AI Solutions**<p>
+### Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation Applications, and AI Solutions That Transform Knowledge Into Action
 
-🌐 Portfolio: Coming Soon | 
-📧 Email: [aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com) | 
-💼 LinkedIn: linkedin.com/in/muhammad-ali-698b5233a
+<p>
+🔹 Machine Learning & Deep Learning <br>
+🔹 Large Language Models (LLMs) <br>
+🔹 Retrieval-Augmented Generation (RAG) <br>
+🔹 Information Retrieval (IR) & Semantic Search <br>
+🔹 AI Agents & Automation <br>
+🔹 Production-Ready AI Systems
+</p>
+
+📍 Pakistan | 🌍 Open to Global Opportunities
 
 </div>
 
 ---
----
 
-# About Me
+## ⚡ Vision
 
-I'm an Artificial Intelligence undergraduate learning about building AI systems that solve real-world problems and contribute to beneficial knowledge.
+I believe the future belongs to intelligent systems that can understand, retrieve, reason, and assist humans at scale.
 
-My primary interests lie in:
+As an Artificial Intelligence undergraduate, I am focused on mastering the complete AI engineering stack—from Machine Learning and Deep Learning to Information Retrieval, LLM Engineering, AI Agents, and MLOps.
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Information Retrieval (IR)
-* Machine Learning & Deep Learning
-* AI Agents & Automation
-* Intelligent Search Systems
-* Applied AI for Islamic Knowledge
+My goal is not simply to train models.
 
-I focus on transforming AI concepts into complete products—from data processing and model development to deployment and user-facing applications.
+My goal is to build AI products that people actually use.
 
 ---
 
-# Core Expertise
+## 🧠 Areas of Expertise
 
 ### Artificial Intelligence
 
 * Machine Learning
 * Deep Learning
-* Neural Networks
 * Computer Vision
 * Natural Language Processing
+* Neural Networks
 
 ### LLM Engineering
 
 * Retrieval-Augmented Generation (RAG)
-* Embeddings
-* Vector Databases
-* Prompt Engineering
+* Embeddings & Vector Search
 * AI Agents
-* Multi-Agent Systems
+* Prompt Engineering
+* Multi-Agent Architectures
+* Tool Calling & Workflow Automation
 
 ### Information Retrieval
 
 * TF-IDF
-* Vector Space Models
-* Rocchio Query Expansion
 * Semantic Search
-* Ranking & Evaluation
+* Vector Space Models
+* Query Expansion
+* Rocchio Algorithm
+* Precision, Recall, MAP & NDCG
 
-### Software Engineering
+### AI Product Engineering
 
-* Python
 * FastAPI
 * REST APIs
-* Git & GitHub
-* Firebase
 * Docker
-* SQL
+* SQL Databases
+* Model Deployment
+* End-to-End AI Applications
 
 ---
 
-# Technical Stack
+## 🛠 Technology Arsenal
 
 ### Languages
 
-* Python
-* C++
+Python • C++ • C#
 
-### AI & Data Science
+### AI & Machine Learning
 
-* PyTorch
-* Scikit-Learn
-* NumPy
-* Pandas
-* Matplotlib
+PyTorch • Scikit-Learn • NumPy • Pandas • Matplotlib
 
 ### Backend & Deployment
 
-* FastAPI
-* Docker
-* SQLite
-* Firebase
+FastAPI • Docker • PostgreSQL • SQLite
 
-### Tools
+### Development
 
-* Git
-* GitHub
-* VS Code
-* Antigravity
+Git • GitHub • Linux • VS Code
 
-### Design & Media
+### Design & Creativity
 
-* Canva
-* CapCut
-* Picsart
+Figma • Canva • Adobe Premiere Pro • CapCut
 
 ---
 
-# Featured Projects
+# 🚀 Flagship Projects
 
-## SeismoGuard AI
+## 🌍 SeismoGuard AI
 
-An intelligent earthquake risk assessment and alerting platform combining machine learning, expert systems, and real-time notifications.
+An intelligent earthquake monitoring and risk assessment platform combining machine learning, expert systems, automated alerts, and predictive analytics.
 
-**Technologies:** Python, Machine Learning, Rule-Based Systems, FastAPI
+**Highlights**
 
----
-
-## Quran Semantic Search Engine
-
-A complete Information Retrieval system for Quranic translations featuring preprocessing, TF-IDF ranking, query expansion, and relevance evaluation.
-
-**Technologies:** Python, NLP, Information Retrieval, TF-IDF
+* Risk Prediction Models
+* Rule-Based Expert System
+* Automated Notifications
+* Interactive Dashboard
 
 ---
 
-## Islamic RAG Assistant
+## 📖 Quran Semantic Search Engine
 
-A retrieval-augmented AI assistant capable of answering queries using authenticated Islamic knowledge sources with citation-based responses.
+A complete Information Retrieval system designed to understand user intent and retrieve the most relevant Quranic verses using advanced ranking techniques.
 
-**Technologies:** LLMs, RAG, Embeddings, Vector Databases
+**Highlights**
 
----
-
-## Pak Burger Cafe App
-
-A full working app developed for my client for his new restaurant setup, using react + vite by vibe coding, having module for customer online orders as guests, POS, live order panel, Adminstartion tasks (dashboard, [orders, menu, staff] handling), Delivery module etc.
-**Technologies:** React, Vite, node.js, Antigravity
+* TF-IDF Ranking
+* Query Expansion
+* Semantic Search
+* Precision & NDCG Evaluation
 
 ---
 
-# Current Mission
+## 🤖 Islamic RAG Assistant
 
-To become a world-class AI Engineer by mastering:
+A Retrieval-Augmented Generation system that provides evidence-based answers grounded in trusted Islamic sources.
 
-* Machine Learning
-* Deep Learning
-* Information Retrieval
-* LLM Engineering
-* AI Agents
-* MLOps & Deployment
+**Highlights**
 
-while building impactful AI systems that benefit people and advance knowledge.
+* LLM-Powered Responses
+* Citation-Based Retrieval
+* Embedding Search
+* Knowledge Grounding
 
 ---
 
-# Connect
+## ⚙️ AI Automation Suite
 
-📧 Email: [aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com)
+A collection of intelligent agents designed to automate research, information extraction, and productivity workflows.
 
-💼 LinkedIn:
+**Highlights**
+
+* Autonomous Agents
+* Research Automation
+* Workflow Orchestration
+* AI-Assisted Decision Making
+
+---
+
+# 🎯 Current Mission
+
+Master the complete path from:
+
+**Machine Learning → Deep Learning → Information Retrieval → LLM Engineering → AI Agents → MLOps → Production AI Systems**
+
+while building a portfolio that demonstrates real-world engineering ability, not just theoretical knowledge.
+
+---
+
+# 📈 Currently Learning
+
+* Advanced Deep Learning
+* Transformer Architectures
+* Agentic AI Systems
+* Retrieval-Augmented Generation
+* Production AI Infrastructure
+* MLOps & Scalable Deployment
+
+---
+
+# 🤝 Let's Connect
+
+💼 LinkedIn
 [www.linkedin.com/in/muhammad-ali-698b5233a](http://www.linkedin.com/in/muhammad-ali-698b5233a)
 
-🌐 Portfolio:
+📧 Email
+[aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com)
+
+🌐 Portfolio
 Coming Soon
 
 ---
 
-> I keep this profile active with new projects and learning updates.
-
-
 <div align="center">
 
-# Muhammad Ali
-
-### AI Engineer | LLM Engineer | Information Retrieval & RAG Specialist
-
-**Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation (RAG) Applications, and Production-Ready AI Solutions**
-
-🌐 Portfolio: Coming Soon
-📧 Email: [aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com)
-💼 LinkedIn: linkedin.com/in/muhammad-ali-698b5233a
+### "Building AI that doesn't just generate answers — but retrieves knowledge, reasons intelligently, and creates real-world impact."
 
 </div>
-
----
