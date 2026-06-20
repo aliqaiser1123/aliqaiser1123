@@ -136,7 +136,7 @@ A beautiful, modern web application built with React and Vite (using vibe coding
 
 ---
 
-# 🎯 Current Mission
+## Current Mission
 
 Master the complete path from:
 
@@ -146,7 +146,7 @@ while building a portfolio that demonstrates real-world engineering ability, not
 
 ---
 
-# 🤝 Let's Connect
+## Let's Connect
 
 💼 LinkedIn
 [www.linkedin.com/in/muhammad-ali-698b5233a](http://www.linkedin.com/in/muhammad-ali-698b5233a)
