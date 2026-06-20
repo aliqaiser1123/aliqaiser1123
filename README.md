@@ -4,17 +4,7 @@
 
 ### 🚀 AI Engineer • LLM Engineer • Information Retrieval & RAG Specialist
 
-### Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation Applications, and AI Solutions That Transform Knowledge Into Action
-
-<p>
-🔹 Machine Learning & Deep Learning <br>
-🔹 Large Language Models (LLMs) <br>
-🔹 Retrieval-Augmented Generation (RAG) <br>
-🔹 Information Retrieval (IR) & Semantic Search <br>
-🔹 AI Agents & Automation <br>
-🔹 Production-Ready AI Systems
-</p>
-
+##### Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation Applications, and AI Solutions That Transform Knowledge Into Action
 📍 Pakistan | 🌍 Open to Global Opportunities
 
 </div>
@@ -24,12 +14,8 @@
 ## ⚡ Vision
 
 I believe the future belongs to intelligent systems that can understand, retrieve, reason, and assist humans at scale.
-
 As an Artificial Intelligence undergraduate, I am focused on mastering the complete AI engineering stack—from Machine Learning and Deep Learning to Information Retrieval, LLM Engineering, AI Agents, and MLOps.
-
-My goal is not simply to train models.
-
-My goal is to build AI products that people actually use.
+My goal is not simply to train models. My goal is to understand why and how of these existing concepts in world.
 
 ---
 
@@ -65,8 +51,8 @@ My goal is to build AI products that people actually use.
 
 * FastAPI
 * REST APIs
-* Docker
 * SQL Databases
+* Firebase
 * Model Deployment
 * End-to-End AI Applications
 
@@ -76,23 +62,23 @@ My goal is to build AI products that people actually use.
 
 ### Languages
 
-Python • C++ • C#
+Python • C++
 
 ### AI & Machine Learning
 
-PyTorch • Scikit-Learn • NumPy • Pandas • Matplotlib
+PyTorch • Scikit-Learn • NumPy • Pandas • Matplotlib 
 
 ### Backend & Deployment
 
-FastAPI • Docker • PostgreSQL • SQLite
+FastAPI • Firebase • SQL
 
 ### Development
 
-Git • GitHub • Linux • VS Code
+Git • GitHub • VsCode • Antigravity
 
 ### Design & Creativity
 
-Figma • Canva • Adobe Premiere Pro • CapCut
+Canva • Picsart • CapCut
 
 ---
 
@@ -106,7 +92,7 @@ An intelligent earthquake monitoring and risk assessment platform combining mach
 
 * Risk Prediction Models
 * Rule-Based Expert System
-* Automated Notifications
+* Hotspot Detections
 * Interactive Dashboard
 
 ---
@@ -120,7 +106,7 @@ A complete Information Retrieval system designed to understand user intent and r
 * TF-IDF Ranking
 * Query Expansion
 * Semantic Search
-* Precision & NDCG Evaluation
+* Matrices Evaluations
 
 ---
 
@@ -137,16 +123,16 @@ A Retrieval-Augmented Generation system that provides evidence-based answers gro
 
 ---
 
-## ⚙️ AI Automation Suite
+## ⚙️ Pak Burger App
 
-A collection of intelligent agents designed to automate research, information extraction, and productivity workflows.
+A beautiful, modern web application built with React and Vite (using vibe coding guide).
 
 **Highlights**
 
-* Autonomous Agents
-* Research Automation
-* Workflow Orchestration
-* AI-Assisted Decision Making
+* Customers Online Order
+* Live Orders Management
+* Admin Authorities
+* Delivery Extension
 
 ---
 
@@ -182,6 +168,9 @@ while building a portfolio that demonstrates real-world engineering ability, not
 🌐 Portfolio
 Coming Soon
 
+☎️ Whatsapp
++92310-6643436
+
 ---
 
 <div align="center">
@@ -189,3 +178,5 @@ Coming Soon
 ### "Building AI that doesn't just generate answers — but retrieves knowledge, reasons intelligently, and creates real-world impact."
 
 </div>
+
+> I will keep updating my profile as the new development of new projects
