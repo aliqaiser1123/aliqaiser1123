@@ -1,6 +1,9 @@
-# Muhammad Ali
-
-AI Student | Aspiring Computational Neuroscientist | Python & .NET Developer | Graphics Designer
+<div align="center">
+  <h1>Muhammad Ali</h1>
+  <p>AI Student | AI Engineer | Building LLM Applications, RAG Systems & Intelligent Search Solutions | Python | PyTorch | FastAPI</p>
+  <h3>__my_profile__(pending...).com</h3>
+  <p>Contact: +923106643436</p>
+</div>
 
 ---
 
