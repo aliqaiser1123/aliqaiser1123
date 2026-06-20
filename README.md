@@ -1,31 +1,17 @@
 <div align="center">
   <h1>Muhammad Ali</h1>
-  <p>AI Student | AI Engineer | Building LLM Applications, RAG Systems & Intelligent Search Solutions | Python | PyTorch | FastAPI</p>
-  <h3>__my_profile__(pending...).com</h3>
-  <p>Contact: +923106643436</p>
+  ### AI Engineer | LLM Engineer | Information Retrieval & RAG Specialist
+
+  **Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation (RAG) Applications, and Production-Ready AI   Solutions**
+  🌐 Portfolio: Coming Soon | 
+  📧 Email: [aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com) | 
+  💼 LinkedIn: linkedin.com/in/muhammad-ali-698b5233a
 </div>
-
----
-
-<div align="center">
-
-# Muhammad Ali
-
-### AI Engineer | LLM Engineer | Information Retrieval & RAG Specialist
-
-**Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation (RAG) Applications, and Production-Ready AI Solutions**
-
-🌐 Portfolio: Coming Soon
-📧 Email: [aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com)
-💼 LinkedIn: linkedin.com/in/muhammad-ali-698b5233a
-
-</div>
-
 ---
 
 # About Me
 
-I'm an Artificial Intelligence undergraduate passionate about building AI systems that solve real-world problems and contribute to beneficial knowledge.
+I'm an Artificial Intelligence undergraduate learning about building AI systems that solve real-world problems and contribute to beneficial knowledge.
 
 My primary interests lie in:
 
@@ -74,6 +60,7 @@ I focus on transforming AI concepts into complete products—from data processin
 * FastAPI
 * REST APIs
 * Git & GitHub
+* Firebase
 * Docker
 * SQL
 
@@ -85,7 +72,6 @@ I focus on transforming AI concepts into complete products—from data processin
 
 * Python
 * C++
-* C#
 
 ### AI & Data Science
 
@@ -100,21 +86,20 @@ I focus on transforming AI concepts into complete products—from data processin
 * FastAPI
 * Docker
 * SQLite
-* PostgreSQL
+* Firebase
 
 ### Tools
 
 * Git
 * GitHub
 * VS Code
-* Linux
+* Antigravity
 
 ### Design & Media
 
 * Canva
-* Figma
-* Adobe Premiere Pro
 * CapCut
+* Picsart
 
 ---
 
@@ -144,11 +129,10 @@ A retrieval-augmented AI assistant capable of answering queries using authentica
 
 ---
 
-## AI Automation Suite
+## Pak Burger Cafe App
 
-A collection of AI-powered workflows and agents designed to automate research, information gathering, and productivity tasks.
-
-**Technologies:** AI Agents, LLMs, Automation
+A full working app developed for my client for his new restaurant setup, using react + vite by vibe coding, having module for customer online orders as guests, POS, live order panel, Adminstartion tasks (dashboard, [orders, menu, staff] handling), Delivery module etc.
+**Technologies:** React, Vite, node.js, Antigravity
 
 ---
 
@@ -178,8 +162,5 @@ while building impactful AI systems that benefit people and advance knowledge.
 Coming Soon
 
 ---
-
-> "Build useful things. Share what you learn. Let the work speak for itself."
-
 
 > I keep this profile active with new projects and learning updates.
