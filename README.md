@@ -5,7 +5,7 @@
 
 ### AI Engineer | LLM Engineer | Information Retrieval & RAG Specialist
 
-**Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation (RAG) Applications, and Production-Ready AI Solutions**
+<p>**Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation (RAG) Applications, and Production-Ready AI Solutions**<p>
 
 🌐 Portfolio: Coming Soon | 
 📧 Email: [aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com) | 
