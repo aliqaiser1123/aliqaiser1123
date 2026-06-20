@@ -2,9 +2,9 @@
 
 # Muhammad Ali
 
-### 🚀 AI Engineer • LLM Engineer • Information Retrieval & RAG Specialist
+## 🚀 AI Engineer • LLM Engineer • Information Retrieval & RAG Specialist
 
-##### Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation Applications, and AI Solutions That Transform Knowledge Into Action
+#### Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation Applications, and AI Solutions That Transform Knowledge Into Action
 📍 Pakistan | 🌍 Open to Global Opportunities
 
 </div>
@@ -19,7 +19,7 @@ My goal is not simply to train models. My goal is to understand why and how of t
 
 ---
 
-## 🧠 Areas of Expertise
+## Areas of Expertise
 
 ### Artificial Intelligence
 
@@ -58,7 +58,7 @@ My goal is not simply to train models. My goal is to understand why and how of t
 
 ---
 
-## 🛠 Technology Arsenal
+## Technology Arsenal
 
 ### Languages
 
@@ -123,7 +123,7 @@ A Retrieval-Augmented Generation system that provides evidence-based answers gro
 
 ---
 
-## ⚙️ Pak Burger App
+## 🍔 Pak Burger App
 
 A beautiful, modern web application built with React and Vite (using vibe coding guide).
 
@@ -146,17 +146,6 @@ while building a portfolio that demonstrates real-world engineering ability, not
 
 ---
 
-# 📈 Currently Learning
-
-* Advanced Deep Learning
-* Transformer Architectures
-* Agentic AI Systems
-* Retrieval-Augmented Generation
-* Production AI Infrastructure
-* MLOps & Scalable Deployment
-
----
-
 # 🤝 Let's Connect
 
 💼 LinkedIn
@@ -169,7 +158,7 @@ while building a portfolio that demonstrates real-world engineering ability, not
 Coming Soon
 
 ☎️ Whatsapp
-+92310-6643436
+[+92310-6643436](+923106643436)
 
 ---
 
