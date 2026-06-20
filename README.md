@@ -7,41 +7,179 @@
 
 ---
 
-## 👋 About Me
-- 🎓 Second-year Artificial Intelligence undergraduate  
-- 🧠 Interested in Machine Learning, Brain–Computer Interfaces, and Computational Neuroscience  
-- 💡 Enjoy blending creative **design** with solid **software engineering** skills  
+<div align="center">
+
+# Muhammad Ali
+
+### AI Engineer | LLM Engineer | Information Retrieval & RAG Specialist
+
+**Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation (RAG) Applications, and Production-Ready AI Solutions**
+
+🌐 Portfolio: Coming Soon
+📧 Email: [aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com)
+💼 LinkedIn: linkedin.com/in/muhammad-ali-698b5233a
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** Python, C++, C#  
-- **Frameworks & Tools:** .NET WinForms, Git  
-- **Design:** Canva, Capcut, Figma, Picsart, Adobe Premiere
+# About Me
+
+I'm an Artificial Intelligence undergraduate passionate about building AI systems that solve real-world problems and contribute to beneficial knowledge.
+
+My primary interests lie in:
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Information Retrieval (IR)
+* Machine Learning & Deep Learning
+* AI Agents & Automation
+* Intelligent Search Systems
+* Applied AI for Islamic Knowledge
+
+I focus on transforming AI concepts into complete products—from data processing and model development to deployment and user-facing applications.
 
 ---
 
-## 🚀 Featured Projects
-- **Brainwave Classifier** – Simple EEG signal classifier *(Python, PyTorch)*  
-- **SmartMart POS** – Desktop point-of-sale system *(C#, .NET WinForms)*  
-- **AI Art Generator** – Turns sketches into colorized art *(Python, OpenCV)*  
+# Core Expertise
 
-*(Replace these with your real projects as they grow)*
+### Artificial Intelligence
+
+* Machine Learning
+* Deep Learning
+* Neural Networks
+* Computer Vision
+* Natural Language Processing
+
+### LLM Engineering
+
+* Retrieval-Augmented Generation (RAG)
+* Embeddings
+* Vector Databases
+* Prompt Engineering
+* AI Agents
+* Multi-Agent Systems
+
+### Information Retrieval
+
+* TF-IDF
+* Vector Space Models
+* Rocchio Query Expansion
+* Semantic Search
+* Ranking & Evaluation
+
+### Software Engineering
+
+* Python
+* FastAPI
+* REST APIs
+* Git & GitHub
+* Docker
+* SQL
 
 ---
 
-## 🌱 Current Goals
-- Deepen skills in **Machine Learning** and **Deep Learning**  
-- Start open-source projects combining **AI** and **neuroscience**  
-- Build a personal portfolio of professional-grade applications  
+# Technical Stack
+
+### Languages
+
+* Python
+* C++
+* C#
+
+### AI & Data Science
+
+* PyTorch
+* Scikit-Learn
+* NumPy
+* Pandas
+* Matplotlib
+
+### Backend & Deployment
+
+* FastAPI
+* Docker
+* SQLite
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Linux
+
+### Design & Media
+
+* Canva
+* Figma
+* Adobe Premiere Pro
+* CapCut
 
 ---
 
-## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/muhammad-ali-698b5233a/)  
-[Email](aliqaiser1123@gmail.com)  
-[Portfolio](https://yourname.dev)
+# Featured Projects
+
+## SeismoGuard AI
+
+An intelligent earthquake risk assessment and alerting platform combining machine learning, expert systems, and real-time notifications.
+
+**Technologies:** Python, Machine Learning, Rule-Based Systems, FastAPI
 
 ---
 
-> “Show, don’t tell.” – I keep this profile active with new projects and learning updates.
+## Quran Semantic Search Engine
+
+A complete Information Retrieval system for Quranic translations featuring preprocessing, TF-IDF ranking, query expansion, and relevance evaluation.
+
+**Technologies:** Python, NLP, Information Retrieval, TF-IDF
+
+---
+
+## Islamic RAG Assistant
+
+A retrieval-augmented AI assistant capable of answering queries using authenticated Islamic knowledge sources with citation-based responses.
+
+**Technologies:** LLMs, RAG, Embeddings, Vector Databases
+
+---
+
+## AI Automation Suite
+
+A collection of AI-powered workflows and agents designed to automate research, information gathering, and productivity tasks.
+
+**Technologies:** AI Agents, LLMs, Automation
+
+---
+
+# Current Mission
+
+To become a world-class AI Engineer by mastering:
+
+* Machine Learning
+* Deep Learning
+* Information Retrieval
+* LLM Engineering
+* AI Agents
+* MLOps & Deployment
+
+while building impactful AI systems that benefit people and advance knowledge.
+
+---
+
+# Connect
+
+📧 Email: [aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com)
+
+💼 LinkedIn:
+[www.linkedin.com/in/muhammad-ali-698b5233a](http://www.linkedin.com/in/muhammad-ali-698b5233a)
+
+🌐 Portfolio:
+Coming Soon
+
+---
+
+> "Build useful things. Share what you learn. Let the work speak for itself."
+
+
+> I keep this profile active with new projects and learning updates.
