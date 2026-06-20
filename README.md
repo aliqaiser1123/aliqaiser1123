@@ -2,9 +2,9 @@
 
 # Muhammad Ali
 
-## 🚀 AI Engineer • LLM Engineer • Information Retrieval & RAG Specialist
+### 🚀 AI Engineer • LLM Engineer • Information Retrieval & RAG Specialist
 
-#### Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation Applications, and AI Solutions That Transform Knowledge Into Action
+###### Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation Applications, and AI Solutions That Transform Knowledge Into Action
 📍 Pakistan | 🌍 Open to Global Opportunities
 
 </div>
