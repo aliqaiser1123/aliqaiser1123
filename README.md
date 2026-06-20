@@ -2,7 +2,8 @@
   <h1>Muhammad Ali</h1>
   ### AI Engineer | LLM Engineer | Information Retrieval & RAG Specialist
 
-  **Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation (RAG) Applications, and Production-Ready AI   Solutions**
+**Building Intelligent Search Systems, AI Agents, Retrieval-Augmented Generation (RAG) Applications, and Production-Ready AI   Solutions**
+
   🌐 Portfolio: Coming Soon | 
   📧 Email: [aliqaiser1123@gmail.com](mailto:aliqaiser1123@gmail.com) | 
   💼 LinkedIn: linkedin.com/in/muhammad-ali-698b5233a
