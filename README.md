@@ -181,4 +181,4 @@ Coming Soon
 
 </div>
 
-> I will keep updating my profile as the new development of new projects
+> I will keep updating my profile as the development of new projects
