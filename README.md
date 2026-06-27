@@ -84,6 +84,19 @@ Canva • Picsart • CapCut
 
 # 🚀 Flagship Projects
 
+## 🧠 Brain Tumor Classifier AI
+
+An AI-powered medical image analysis system that automates brain tumor classification from MRI scans using state-of-the-art deep learning models and Explainable AI, enabling accurate, transparent, and real-time clinical decision support.
+
+**Highlights**
+
+* Four-Class MRI Tumor Classification
+* Explainable AI with Grad-CAM Visualizations
+* Transfer Learning (ResNet18 & EfficientNet-B0)
+* Real-Time Prediction Dashboard
+
+---
+
 ## 🌍 SeismoGuard AI
 
 An intelligent earthquake monitoring and risk assessment platform combining machine learning, expert systems, automated alerts, and predictive analytics.
